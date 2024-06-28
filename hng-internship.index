@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edward Chukwuebuka Akazue</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            width: 100%;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        main {
+            max-width: 600px;
+            background: #fff;
+            padding: 2rem;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Edward Chukwuebuka Akazue</h1>
+    </header>
+    <main>
+        <p>Welcome to my personal page! My name is Edward Chukwuebuka Akazue.</p>
+        <p>If you would like to get in touch with me, please feel free to send me an email at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+        <p>For more information about my work and interests, you can visit <a href="https://hng.tech" target="_blank">HNG.tech</a>.</p>
+    </main>
+</body>
+</html>
+
