@@ -45,9 +45,9 @@
         <h1>Edward Chukwuebuka Akazue</h1>
     </header>
     <main>
-        <p>Welcome to my personal page! My name is Edward Chukwuebuka Akazue.</p>
+        <p>Welcome to my personal page! My name is Edward Chukwuebuka Akazue.I am a DevOps personel</p>
         <p>If you would like to get in touch with me, please feel free to send me an email at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
-        <p>For more information about my work and interests, you can visit <a href="https://hng.tech" target="_blank">HNG.tech</a>.</p>
+        <p>For more information about learning Devops, you can visit <a href="https://hng.tech" target="_blank">HNG.tech</a>.</p>
     </main>
 </body>
 </html>
